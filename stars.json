@@ -1,9 +1,9 @@
 [
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 15544,
-    "open_issues_count": 209,
-    "forks_count": 701
+    "stargazers_count": 16377,
+    "open_issues_count": 208,
+    "forks_count": 729
   },
   {
     "full_name": "juliendecharentenay/yew-investigation",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "sd-webui/stable-diffusion-webui",
-    "stargazers_count": 4183,
-    "open_issues_count": 141,
-    "forks_count": 452
+    "stargazers_count": 4326,
+    "open_issues_count": 150,
+    "forks_count": 473
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 194975,
-    "open_issues_count": 1105,
-    "forks_count": 40314
+    "stargazers_count": 195143,
+    "open_issues_count": 1111,
+    "forks_count": 40379
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 5033,
-    "open_issues_count": 13,
-    "forks_count": 111
+    "stargazers_count": 5230,
+    "open_issues_count": 12,
+    "forks_count": 116
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 14843,
-    "open_issues_count": 394,
-    "forks_count": 783
+    "stargazers_count": 14865,
+    "open_issues_count": 398,
+    "forks_count": 789
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 5261,
+    "stargazers_count": 5265,
     "open_issues_count": 10,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "ahmedyounis1st/Machine-Learning-Road-Map",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 4699,
+    "stargazers_count": 4704,
     "open_issues_count": 0,
     "forks_count": 125
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5359,
-    "open_issues_count": 37,
+    "stargazers_count": 5391,
+    "open_issues_count": 35,
     "forks_count": 84
   },
   {
@@ -73,31 +73,31 @@
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 19329,
-    "open_issues_count": 110,
-    "forks_count": 586
+    "stargazers_count": 19339,
+    "open_issues_count": 100,
+    "forks_count": 585
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 50775,
-    "open_issues_count": 259,
-    "forks_count": 1279
+    "stargazers_count": 51045,
+    "open_issues_count": 277,
+    "forks_count": 1286
   },
   {
     "full_name": "maplibre/maplibre-rs",
-    "stargazers_count": 868,
+    "stargazers_count": 871,
     "open_issues_count": 52,
     "forks_count": 43
   },
   {
     "full_name": "mgechev/mk.js",
-    "stargazers_count": 1437,
+    "stargazers_count": 1438,
     "open_issues_count": 0,
     "forks_count": 393
   },
   {
     "full_name": "francoismassart/eslint-plugin-tailwindcss",
-    "stargazers_count": 506,
+    "stargazers_count": 507,
     "open_issues_count": 16,
     "forks_count": 27
   },
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 12977,
-    "open_issues_count": 77,
-    "forks_count": 401
+    "stargazers_count": 13185,
+    "open_issues_count": 71,
+    "forks_count": 409
   },
   {
     "full_name": "argyleink/gui-challenges",
-    "stargazers_count": 1793,
+    "stargazers_count": 1796,
     "open_issues_count": 13,
-    "forks_count": 228
+    "forks_count": 229
   },
   {
     "full_name": "wg/wrk",
-    "stargazers_count": 32915,
+    "stargazers_count": 32944,
     "open_issues_count": 171,
-    "forks_count": 2730
+    "forks_count": 2732
   },
   {
     "full_name": "digitalocean/Kubernetes-Starter-Kit-Developers",
-    "stargazers_count": 438,
-    "open_issues_count": 15,
-    "forks_count": 154
+    "stargazers_count": 439,
+    "open_issues_count": 16,
+    "forks_count": 157
   },
   {
     "full_name": "tkssharma/nestjs-advance-course",
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 40839,
-    "open_issues_count": 840,
-    "forks_count": 27941
+    "stargazers_count": 40879,
+    "open_issues_count": 853,
+    "forks_count": 27961
   },
   {
     "full_name": "bvaughn/react-window",
-    "stargazers_count": 13046,
-    "open_issues_count": 192,
-    "forks_count": 731
+    "stargazers_count": 13081,
+    "open_issues_count": 193,
+    "forks_count": 732
   },
   {
     "full_name": "welldone-software/why-did-you-render",
-    "stargazers_count": 9178,
+    "stargazers_count": 9188,
     "open_issues_count": 24,
     "forks_count": 164
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7518,
+    "stargazers_count": 7517,
     "open_issues_count": 4,
     "forks_count": 1282
   },
   {
     "full_name": "humanwhocodes/computer-science-in-javascript",
-    "stargazers_count": 8577,
+    "stargazers_count": 8580,
     "open_issues_count": 13,
     "forks_count": 1204
   },
   {
     "full_name": "zGrav/xtream-iptv-player-reactnative",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 39
   }
