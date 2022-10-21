@@ -1,38 +1,38 @@
 [
   {
     "full_name": "vendure-ecommerce/vendure",
-    "stargazers_count": 3858,
-    "open_issues_count": 221,
+    "stargazers_count": 3864,
+    "open_issues_count": 223,
     "forks_count": 656
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 94015,
-    "open_issues_count": 1374,
-    "forks_count": 20694
+    "stargazers_count": 94124,
+    "open_issues_count": 1363,
+    "forks_count": 20717
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 19779,
+    "stargazers_count": 19827,
     "open_issues_count": 334,
-    "forks_count": 1595
+    "forks_count": 1594
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 22818,
-    "open_issues_count": 21,
-    "forks_count": 597
+    "stargazers_count": 22880,
+    "open_issues_count": 14,
+    "forks_count": 600
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 196306,
-    "open_issues_count": 1120,
-    "forks_count": 40676
+    "stargazers_count": 196410,
+    "open_issues_count": 1033,
+    "forks_count": 40707
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 801,
+    "stargazers_count": 803,
     "open_issues_count": 18,
-    "forks_count": 412
+    "forks_count": 413
   }
 ]
