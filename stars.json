@@ -1,9 +1,9 @@
 [
   {
     "full_name": "dsdanielpark/Bard-API",
-    "stargazers_count": 3468,
-    "open_issues_count": 7,
-    "forks_count": 445
+    "stargazers_count": 3479,
+    "open_issues_count": 11,
+    "forks_count": 448
   },
   {
     "full_name": "dev-seb/react-native-tv-demo",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "Stability-AI/StableLM",
-    "stargazers_count": 14760,
+    "stargazers_count": 14789,
     "open_issues_count": 23,
-    "forks_count": 900
+    "forks_count": 905
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11204,
+    "stargazers_count": 11231,
     "open_issues_count": 17,
     "forks_count": 70
   },
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "biobootloader/wolverine",
-    "stargazers_count": 5100,
+    "stargazers_count": 5101,
     "open_issues_count": 27,
     "forks_count": 511
   },
   {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 35222,
-    "open_issues_count": 301,
-    "forks_count": 3938
+    "stargazers_count": 35404,
+    "open_issues_count": 305,
+    "forks_count": 3966
   },
   {
     "full_name": "oxedom/parker",
-    "stargazers_count": 113,
-    "open_issues_count": 5,
+    "stargazers_count": 114,
+    "open_issues_count": 3,
     "forks_count": 9
   },
   {
@@ -61,51 +61,51 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 47696,
-    "open_issues_count": 395,
-    "forks_count": 5171
+    "stargazers_count": 47941,
+    "open_issues_count": 407,
+    "forks_count": 5205
   },
   {
     "full_name": "togethercomputer/OpenChatKit",
-    "stargazers_count": 8627,
-    "open_issues_count": 75,
+    "stargazers_count": 8635,
+    "open_issues_count": 74,
     "forks_count": 968
   },
   {
     "full_name": "alewin/useWorker",
-    "stargazers_count": 2757,
+    "stargazers_count": 2760,
     "open_issues_count": 31,
     "forks_count": 94
   },
   {
     "full_name": "lucidrains/PaLM-rlhf-pytorch",
-    "stargazers_count": 7064,
+    "stargazers_count": 7082,
     "open_issues_count": 12,
-    "forks_count": 598
+    "forks_count": 599
   },
   {
     "full_name": "CarperAI/trlx",
-    "stargazers_count": 3545,
+    "stargazers_count": 3555,
     "open_issues_count": 80,
     "forks_count": 363
   },
   {
     "full_name": "LAION-AI/Open-Assistant",
-    "stargazers_count": 34074,
-    "open_issues_count": 248,
-    "forks_count": 2975
+    "stargazers_count": 34137,
+    "open_issues_count": 249,
+    "forks_count": 2985
   },
   {
     "full_name": "deepmind/code_contests",
-    "stargazers_count": 1781,
+    "stargazers_count": 1785,
     "open_issues_count": 11,
-    "forks_count": 185
+    "forks_count": 184
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 56696,
+    "stargazers_count": 56883,
     "open_issues_count": 513,
-    "forks_count": 8801
+    "forks_count": 8831
   },
   {
     "full_name": "kandluis/code-gen",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "hpcaitech/ColossalAI",
-    "stargazers_count": 30448,
-    "open_issues_count": 294,
-    "forks_count": 3548
+    "stargazers_count": 30505,
+    "open_issues_count": 285,
+    "forks_count": 3557
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 86549,
-    "open_issues_count": 2035,
-    "forks_count": 16805
+    "stargazers_count": 87284,
+    "open_issues_count": 2051,
+    "forks_count": 16977
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 15627,
-    "open_issues_count": 55,
-    "forks_count": 1851
+    "stargazers_count": 15656,
+    "open_issues_count": 56,
+    "forks_count": 1865
   },
   {
     "full_name": "lewagon/data-setup",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 5021,
+    "stargazers_count": 5034,
     "open_issues_count": 67,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "marcj/TypeRunner",
-    "stargazers_count": 2491,
+    "stargazers_count": 2489,
     "open_issues_count": 3,
     "forks_count": 33
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 22171,
-    "open_issues_count": 282,
-    "forks_count": 1036
+    "stargazers_count": 22200,
+    "open_issues_count": 281,
+    "forks_count": 1039
   },
   {
     "full_name": "juliendecharentenay/yew-investigation",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Sygil-Dev/sygil-webui",
-    "stargazers_count": 7445,
+    "stargazers_count": 7451,
     "open_issues_count": 83,
-    "forks_count": 859
+    "forks_count": 860
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 209571,
-    "open_issues_count": 1344,
-    "forks_count": 43818
+    "stargazers_count": 209715,
+    "open_issues_count": 1348,
+    "forks_count": 43863
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 15276,
-    "open_issues_count": 37,
-    "forks_count": 604
+    "stargazers_count": 15403,
+    "open_issues_count": 40,
+    "forks_count": 609
   }
 ]
