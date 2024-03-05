@@ -7,57 +7,57 @@
   },
   {
     "full_name": "microsoft/FluidFramework",
-    "stargazers_count": 4596,
-    "open_issues_count": 154,
+    "stargazers_count": 4597,
+    "open_issues_count": 139,
     "forks_count": 499
   },
   {
     "full_name": "linkedin/dph-framework",
     "stargazers_count": 276,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 56
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 35679,
+    "stargazers_count": 35788,
     "open_issues_count": 27,
-    "forks_count": 8562
+    "forks_count": 8585
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 21041,
+    "stargazers_count": 21080,
     "open_issues_count": 2,
-    "forks_count": 6046
+    "forks_count": 6058
   },
   {
     "full_name": "sst/sst",
-    "stargazers_count": 19440,
+    "stargazers_count": 19482,
     "open_issues_count": 781,
-    "forks_count": 1556
+    "forks_count": 1560
   },
   {
     "full_name": "cloudcommunity/Cloud-Free-Tier-Comparison",
-    "stargazers_count": 2023,
+    "stargazers_count": 2045,
     "open_issues_count": 11,
-    "forks_count": 178
+    "forks_count": 180
   },
   {
     "full_name": "AvaloniaUI/Avalonia",
-    "stargazers_count": 23135,
-    "open_issues_count": 1320,
-    "forks_count": 1982
+    "stargazers_count": 23171,
+    "open_issues_count": 1325,
+    "forks_count": 1989
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 4051,
-    "open_issues_count": 61,
+    "stargazers_count": 4062,
+    "open_issues_count": 63,
     "forks_count": 174
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 9003,
-    "open_issues_count": 114,
-    "forks_count": 286
+    "stargazers_count": 9072,
+    "open_issues_count": 109,
+    "forks_count": 289
   },
   {
     "full_name": "jehna/humanify",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "dai-shi/react-tracked",
-    "stargazers_count": 2570,
-    "open_issues_count": 19,
+    "stargazers_count": 2575,
+    "open_issues_count": 2,
     "forks_count": 68
   },
   {
@@ -79,31 +79,31 @@
   },
   {
     "full_name": "flexn-io/renative",
-    "stargazers_count": 1734,
-    "open_issues_count": 229,
-    "forks_count": 182
+    "stargazers_count": 1735,
+    "open_issues_count": 233,
+    "forks_count": 179
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 40710,
-    "open_issues_count": 6,
-    "forks_count": 1245
+    "stargazers_count": 40859,
+    "open_issues_count": 4,
+    "forks_count": 1246
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 1922,
-    "open_issues_count": 22,
-    "forks_count": 66
+    "stargazers_count": 1928,
+    "open_issues_count": 23,
+    "forks_count": 67
   },
   {
     "full_name": "tastyigniter/TastyIgniter",
-    "stargazers_count": 2808,
+    "stargazers_count": 2810,
     "open_issues_count": 22,
     "forks_count": 932
   },
   {
     "full_name": "dsdanielpark/Bard-API",
-    "stargazers_count": 5408,
+    "stargazers_count": 5406,
     "open_issues_count": 18,
     "forks_count": 544
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "Stability-AI/StableLM",
-    "stargazers_count": 15799,
+    "stargazers_count": 15800,
     "open_issues_count": 23,
     "forks_count": 1019
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 12115,
-    "open_issues_count": 18,
-    "forks_count": 81
+    "stargazers_count": 12127,
+    "open_issues_count": 15,
+    "forks_count": 82
   },
   {
     "full_name": "mckaywrigley/ai-brainstore",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 42628,
-    "open_issues_count": 483,
-    "forks_count": 4994
+    "stargazers_count": 42731,
+    "open_issues_count": 484,
+    "forks_count": 5007
   },
   {
     "full_name": "oxedom/parker",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 61837,
-    "open_issues_count": 393,
-    "forks_count": 6785
+    "stargazers_count": 62024,
+    "open_issues_count": 389,
+    "forks_count": 6810
   },
   {
     "full_name": "togethercomputer/OpenChatKit",
-    "stargazers_count": 8981,
+    "stargazers_count": 8984,
     "open_issues_count": 83,
     "forks_count": 1012
   },
   {
     "full_name": "alewin/useWorker",
-    "stargazers_count": 2865,
+    "stargazers_count": 2870,
     "open_issues_count": 34,
     "forks_count": 98
   }
