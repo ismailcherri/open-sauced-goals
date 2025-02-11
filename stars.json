@@ -1,86 +1,86 @@
 [
   {
     "full_name": "ading2210/doompdf",
-    "stargazers_count": 2973,
+    "stargazers_count": 3073,
     "open_issues_count": 6,
-    "forks_count": 94
+    "forks_count": 96
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 19952,
+    "stargazers_count": 19966,
     "open_issues_count": 83,
     "forks_count": 1382
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 14317,
+    "stargazers_count": 14556,
     "open_issues_count": 81,
-    "forks_count": 193
+    "forks_count": 195
   },
   {
     "full_name": "hotwired/stimulus",
-    "stargazers_count": 12827,
+    "stargazers_count": 12828,
     "open_issues_count": 85,
     "forks_count": 425
   },
   {
     "full_name": "wojciech-graj/doom-ascii",
-    "stargazers_count": 621,
+    "stargazers_count": 625,
     "open_issues_count": 0,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2642,
-    "open_issues_count": 202,
-    "forks_count": 127
+    "stargazers_count": 2647,
+    "open_issues_count": 205,
+    "forks_count": 128
   },
   {
     "full_name": "bamlab/react-tv-space-navigation",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 27,
     "forks_count": 23
   },
   {
     "full_name": "expo/react-conf-app",
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 0,
     "forks_count": 165
   },
   {
     "full_name": "total-typescript/tsconfig",
-    "stargazers_count": 956,
+    "stargazers_count": 960,
     "open_issues_count": 4,
     "forks_count": 19
   },
   {
     "full_name": "marudy/react-native-responsive-screen",
-    "stargazers_count": 1574,
+    "stargazers_count": 1575,
     "open_issues_count": 69,
-    "forks_count": 143
+    "forks_count": 142
   },
   {
     "full_name": "callstack/react-native-paper",
-    "stargazers_count": 13278,
-    "open_issues_count": 354,
-    "forks_count": 2112
+    "stargazers_count": 13299,
+    "open_issues_count": 355,
+    "forks_count": 2118
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 34874,
+    "stargazers_count": 34898,
     "open_issues_count": 86,
-    "forks_count": 4004
+    "forks_count": 4005
   },
   {
     "full_name": "EricLBuehler/mistral.rs",
-    "stargazers_count": 4951,
-    "open_issues_count": 138,
+    "stargazers_count": 4962,
+    "open_issues_count": 141,
     "forks_count": 344
   },
   {
     "full_name": "nuejs/nue",
-    "stargazers_count": 6582,
-    "open_issues_count": 57,
+    "stargazers_count": 6589,
+    "open_issues_count": 60,
     "forks_count": 193
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "microsoft/FluidFramework",
-    "stargazers_count": 4776,
-    "open_issues_count": 114,
-    "forks_count": 536
+    "stargazers_count": 4778,
+    "open_issues_count": 112,
+    "forks_count": 537
   },
   {
     "full_name": "linkedin/dph-framework",
@@ -103,55 +103,55 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 40927,
+    "stargazers_count": 40971,
     "open_issues_count": 10,
-    "forks_count": 9671
+    "forks_count": 9683
   },
   {
     "full_name": "sudheerj/javascript-interview-questions",
-    "stargazers_count": 24942,
+    "stargazers_count": 24971,
     "open_issues_count": 4,
-    "forks_count": 7066
+    "forks_count": 7075
   },
   {
     "full_name": "sst/sst",
-    "stargazers_count": 22778,
-    "open_issues_count": 564,
-    "forks_count": 1749
+    "stargazers_count": 22810,
+    "open_issues_count": 567,
+    "forks_count": 1753
   },
   {
     "full_name": "cloudcommunity/Cloud-Free-Tier-Comparison",
-    "stargazers_count": 4228,
+    "stargazers_count": 4265,
     "open_issues_count": 14,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "AvaloniaUI/Avalonia",
-    "stargazers_count": 26697,
-    "open_issues_count": 1595,
-    "forks_count": 2310
+    "stargazers_count": 26747,
+    "open_issues_count": 1603,
+    "forks_count": 2309
   },
   {
     "full_name": "measuredco/puck",
-    "stargazers_count": 6049,
-    "open_issues_count": 139,
-    "forks_count": 373
+    "stargazers_count": 6148,
+    "open_issues_count": 145,
+    "forks_count": 380
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 16856,
-    "open_issues_count": 232,
-    "forks_count": 524
+    "stargazers_count": 16956,
+    "open_issues_count": 216,
+    "forks_count": 527
   },
   {
     "full_name": "jehna/humanify",
-    "stargazers_count": 1915,
+    "stargazers_count": 1934,
     "open_issues_count": 41,
-    "forks_count": 86
+    "forks_count": 89
   },
   {
     "full_name": "dai-shi/react-tracked",
-    "stargazers_count": 2775,
+    "stargazers_count": 2777,
     "open_issues_count": 0,
     "forks_count": 72
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "flexn-io/renative",
-    "stargazers_count": 1850,
-    "open_issues_count": 43,
+    "stargazers_count": 1851,
+    "open_issues_count": 46,
     "forks_count": 182
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 49958,
-    "open_issues_count": 9,
-    "forks_count": 1571
+    "stargazers_count": 50070,
+    "open_issues_count": 7,
+    "forks_count": 1577
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 2938,
+    "stargazers_count": 2960,
     "open_issues_count": 58,
     "forks_count": 119
   }
